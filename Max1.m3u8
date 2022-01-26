@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-http://21.fourhawar.xyz.global.prod.fastly.net/live/500020/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1643206755~acl=/hls-p/ingest_8015_*/*~hmac=b24afe0d21cf56f533ddb52232ea8b77dc791b6a1d76988650f1a2d829724edf/hls-p/ingest_8015_720p/index.m3u8
